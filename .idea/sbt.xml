@@ -7,9 +7,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/http" />
-            <option value="$PROJECT_DIR$/persistence" />
+            <option value="$PROJECT_DIR$/common" />
             <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/rest" />
           </set>
         </option>
         <option name="resolveSbtClassifiers" value="true" />
